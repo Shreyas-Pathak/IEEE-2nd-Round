@@ -1,4 +1,3 @@
-
 s1 = input(str("Enter a string: "))
 s2 = input(str("Enter another string: "))
 L1 = []
